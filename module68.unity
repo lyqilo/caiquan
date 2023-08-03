@@ -2719,8 +2719,7 @@ MonoBehaviour:
   m_text: "\u8FD4\u56DE"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ba935ece4bbace44aae0b77795bc1930, type: 2}
-  m_sharedMaterial: {fileID: 8706928373506601432, guid: ba935ece4bbace44aae0b77795bc1930,
-    type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: 7a9c37e9cb7711045ab395159abb14aa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3942,8 +3941,7 @@ MonoBehaviour:
   m_text: "\u9032\u5165\u623F\u9593"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ba935ece4bbace44aae0b77795bc1930, type: 2}
-  m_sharedMaterial: {fileID: 8706928373506601432, guid: ba935ece4bbace44aae0b77795bc1930,
-    type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: 58d9589161cb8514fa920431e0543f03, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -12893,8 +12891,7 @@ MonoBehaviour:
   m_text: "\u786E\u8BA4"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ba935ece4bbace44aae0b77795bc1930, type: 2}
-  m_sharedMaterial: {fileID: 8706928373506601432, guid: ba935ece4bbace44aae0b77795bc1930,
-    type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: 11f63204e37d2634daba844655face63, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -12918,12 +12915,12 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 50
+  m_fontSize: 37
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
-  m_fontSizeMax: 50
+  m_fontSizeMax: 37
   m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
@@ -18407,7 +18404,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1661226705
 RectTransform:
   m_ObjectHideFlags: 0
@@ -20363,7 +20360,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   translationName: 
-  FallbackText: "\u6570\u636E"
+  FallbackText: "\u6BCF\u6BCF"
 --- !u!114 &1805150539
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20384,11 +20381,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u6570\u636E"
+  m_text: "\u6BCF\u6BCF"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ba935ece4bbace44aae0b77795bc1930, type: 2}
-  m_sharedMaterial: {fileID: 8706928373506601432, guid: ba935ece4bbace44aae0b77795bc1930,
-    type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: 79bec5aa8e3b0a6418ee4fc99118e1c2, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
